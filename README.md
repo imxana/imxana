@@ -1,5 +1,5 @@
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@birdgg.readme?theme=moebooru-h"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@xana.readme?theme=moebooru-h"></a>
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 

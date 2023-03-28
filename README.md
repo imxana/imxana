@@ -9,6 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 22 March 2023 - To: 27 March 2023
+
+Total Time: 38 mins
+
 Lua          22 mins         ██████████████▒░░░░░░░░░░   57.11 %
 C#           12 mins         ████████░░░░░░░░░░░░░░░░░   31.62 %
 JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %

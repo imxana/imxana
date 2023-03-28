@@ -7,4 +7,11 @@
 <a href="https://github.com/imxana"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imxana&show_icons=true&include_all_commits=true&hide_border=tru&custom_title=imxana%27s%20Github%20Stats" alt="imxana's github stats" /></a> 
 
 <!--START_SECTION:waka-->
+
+```text
+Lua          22 mins         ██████████████▒░░░░░░░░░░   57.11 %
+C#           12 mins         ████████░░░░░░░░░░░░░░░░░   31.62 %
+JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+```
+
 <!--END_SECTION:waka-->

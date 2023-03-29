@@ -9,13 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2023 - To: 27 March 2023
+From: 22 March 2023 - To: 28 March 2023
 
-Total Time: 38 mins
+Total Time: 57 mins
 
-Lua          22 mins         ██████████████▒░░░░░░░░░░   57.11 %
-C#           12 mins         ████████░░░░░░░░░░░░░░░░░   31.62 %
-JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+Lua          22 mins         █████████▓░░░░░░░░░░░░░░░   38.19 %
+Python       19 mins         ████████▒░░░░░░░░░░░░░░░░   33.13 %
+C#           12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
+JavaScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
 
 <!--END_SECTION:waka-->

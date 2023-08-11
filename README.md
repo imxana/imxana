@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2023 - To: 08 August 2023
+From: 22 March 2023 - To: 09 August 2023
 
-Total Time: 165 hrs 6 mins
+Total Time: 165 hrs 44 mins
 
-Lua          117 hrs 17 mins █████████████████▓░░░░░░░   71.03 %
-Python       28 hrs 36 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-C#           8 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-C++          5 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Lua          117 hrs 36 mins █████████████████▓░░░░░░░   70.97 %
+Python       28 hrs 54 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+C#           8 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+C++          5 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 Binary       2 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 Markdown     54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 JavaScript   48 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %

@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2023 - To: 04 September 2025
+From: 22 March 2023 - To: 05 September 2025
 
-Total Time: 740 hrs 32 mins
+Total Time: 740 hrs 47 mins
 
-Lua          579 hrs 21 mins ███████████████████▓░░░░░   78.23 %
+Lua          579 hrs 36 mins ███████████████████▓░░░░░   78.24 %
 C#           70 hrs 9 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
 Python       39 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 C++          25 hrs 7 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %

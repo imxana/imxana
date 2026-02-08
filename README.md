@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2023 - To: 05 February 2026
+From: 22 March 2023 - To: 06 February 2026
 
-Total Time: 771 hrs 16 mins
+Total Time: 771 hrs 49 mins
 
-Lua             609 hrs 22 mins ███████████████████▓░░░░░   79.01 %
-C#              70 hrs 24 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Python          39 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Lua             609 hrs 56 mins ███████████████████▓░░░░░   79.02 %
+C#              70 hrs 24 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Python          39 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 C++             25 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 Binary          19 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 Other           1 hr 44 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
